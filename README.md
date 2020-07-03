@@ -1,2 +1,2 @@
 # FaceDetectionFromPic
-detect faces from pic using MLKit
+detect faces from taken picture using MLKit
